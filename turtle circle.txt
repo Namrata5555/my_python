@@ -1,6 +1,6 @@
 import  turtle
 
-turtle.bgcolor("light blue")
+turtle.bgcolor("light red")
 turtle.pensize(1.0)
 turtle.speed(0.9)
 
